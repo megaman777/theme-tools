@@ -30,7 +30,7 @@
     "@shopify/theme-language-server-common": "2.2.2",
     "@shopify/theme-check-node": "^3.2.2",
     "@shopify/theme-check-docs-updater": "^3.2.2",
-    "glob": "^8.0.3",
+    "glob": "^11.0.3",
     "node-fetch": "^2.6.11",
     "vscode-languageserver": "^8.0.2",
     "vscode-uri": "^3.0.7"
